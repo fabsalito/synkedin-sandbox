@@ -1,4 +1,4 @@
 symkedin
 ========
 
-LinkedIn API's integration or symfony 2
+LinkedIn API's integration for symfony 2
