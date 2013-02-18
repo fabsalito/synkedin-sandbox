@@ -1,4 +1,4 @@
-SynkedinBundle
-==============
+synkedin-sandbox
+================
 
-LinkedIn API's integration bundle for symfony 2
+Snadbox for SynkedinBundle
