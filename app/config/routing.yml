@@ -1,0 +1,4 @@
+synkedin:
+    resource: "@SynkedinBundle/Resources/config/routing.yml"
+    prefix:   /
+

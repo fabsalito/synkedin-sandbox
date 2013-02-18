@@ -1,0 +1,3 @@
+[submodule "src/Fabsalito/SynkedinBundle"]
+	path = src/Fabsalito/SynkedinBundle
+	url = http://github.com/fabsalito/SynkedinBundle.git
