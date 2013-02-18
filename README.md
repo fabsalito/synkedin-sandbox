@@ -1,4 +1,4 @@
-synkedin
-========
+SynkedinBundle
+==============
 
-LinkedIn API's integration for symfony 2
+LinkedIn API's integration bundle for symfony 2
